@@ -1,1 +1,1 @@
-# Owner-avatar-neuefische-capstone-project-2022
+# Project renamed to timetable-generator: https://github.com/Gregor499/timetable-generator
